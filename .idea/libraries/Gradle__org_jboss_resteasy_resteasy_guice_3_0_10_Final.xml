@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.resteasy:resteasy-guice:3.0.10.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/resteasy-guice/3.0.10.Final/5b0be22467d1b0f59b6f77d433adadbc9cc778be/resteasy-guice-3.0.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/resteasy-guice/3.0.10.Final/1b7b80dc8d81f655d6f20e1d372c99b30c8a37cf/resteasy-guice-3.0.10.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
